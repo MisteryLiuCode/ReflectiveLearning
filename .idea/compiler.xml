@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="06ReflectOperationsOnPrivateProperties" />
+        <module name="02QuickGetStart" />
+        <module name="03ReflectionRelatedClass" />
+        <module name="04ReflectionOptimization" />
+        <module name="01OutgoingReflection" />
+        <module name="05ClassCommonMethod" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="QuickGetStart" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
